@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kgZBGai4cpj0SBqsA9bi+LMink3XOynZIlbsuHowqK4=",
+  "Source": "WebApplicationUnitTestNetCore",
+  "BasePath": "_content/WebApplicationUnitTestNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
