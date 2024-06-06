@@ -8,5 +8,11 @@ namespace WebApplicationUnitTestNetCore.Service
         {
             return EmployeeData.GetEmployee();
         }
+
+        public List<responseTest> GetTestCon()
+        {
+            return EmployeeData.PruebaHybrid();
+
+        }
     }
 }

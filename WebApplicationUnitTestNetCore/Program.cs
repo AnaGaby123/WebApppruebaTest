@@ -27,10 +27,25 @@ app.MapGet("/GetEmployee", () =>
 .WithName("GetEmployee")
 .WithOpenApi();
 
+app.MapGet("/GetTestCon", () =>
+{
+    var obj = new EmployeeService();
+    return obj.GetTestCon();
+})
+.WithName("GetTestCon")
+.WithOpenApi();
+
+
+
 app.Run();
 
 public class employee
 {
     public int Id { get; set; }
     public string Name { get; set; }
+}
+
+public class responseTest
+{
+    public string item { get; set; }
 }
