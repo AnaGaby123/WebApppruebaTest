@@ -30,6 +30,7 @@ namespace WebApplicationUnitTestNetCore.Data
                 SqlConnectionStringBuilder builder = new();
 
 
+
                 builder.DataSource = "RYNL039";
                 builder.UserID = "ProquifaDotNetDBUser";
                 builder.Password = "+pFz4_H2REF2YNe9";
@@ -53,6 +54,8 @@ namespace WebApplicationUnitTestNetCore.Data
             }
             //Console.WriteLine("\nDone. Press enter.");
             //Console.ReadLine();
+            //Console.ReadLine();
+
             return list;
         }
     }
