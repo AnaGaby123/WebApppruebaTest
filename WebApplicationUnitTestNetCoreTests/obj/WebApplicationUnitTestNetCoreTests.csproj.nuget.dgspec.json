@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCoreTests\\WebApplicationUnitTestNetCoreTests.csproj": {}
+    "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCoreTests\\WebApplicationUnitTestNetCoreTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCoreTests\\WebApplicationUnitTestNetCoreTests.csproj": {
+    "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCoreTests\\WebApplicationUnitTestNetCoreTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCoreTests\\WebApplicationUnitTestNetCoreTests.csproj",
+        "projectUniqueName": "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCoreTests\\WebApplicationUnitTestNetCoreTests.csproj",
         "projectName": "WebApplicationUnitTestNetCoreTests",
-        "projectPath": "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCoreTests\\WebApplicationUnitTestNetCoreTests.csproj",
-        "packagesPath": "C:\\Users\\ana.arizmendi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCoreTests\\obj\\",
+        "projectPath": "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCoreTests\\WebApplicationUnitTestNetCoreTests.csproj",
+        "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCoreTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ana.arizmendi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://172.24.32.33/Nuget/nuget/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj": {
-                "projectPath": "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj"
+              "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj": {
+                "projectPath": "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj"
               }
             }
           }
@@ -39,42 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "MSTest.TestAdapter": {
-              "target": "Package",
-              "version": "[3.1.1, )"
-            },
-            "MSTest.TestFramework": {
-              "target": "Package",
-              "version": "[3.1.1, )"
-            },
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "Mock": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
-            "Moq": {
-              "target": "Package",
-              "version": "[4.20.70, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -86,26 +54,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj": {
+    "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj",
         "projectName": "WebApplicationUnitTestNetCore",
-        "projectPath": "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj",
-        "packagesPath": "C:\\Users\\ana.arizmendi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.arizmendi\\Documents\\Tmp\\WebApplicationUnitTest\\WebApplicationUnitTestNetCore\\obj\\",
+        "projectPath": "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCore\\WebApplicationUnitTestNetCore.csproj",
+        "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ana\\Source\\Repos\\WebApppruebaTestv2222\\WebApplicationUnitTestNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ana.arizmendi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -113,7 +76,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://172.24.32.33/Nuget/nuget/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -126,30 +88,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[8.0.5, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -161,15 +104,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
